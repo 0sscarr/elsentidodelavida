@@ -1,2 +1,2 @@
-# elsentidodelavida
+# uwu
 Discord bot
